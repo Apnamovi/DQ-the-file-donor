@@ -192,7 +192,7 @@ Nᴀᴍᴇ - {}"""
     CUSTOM_FILE_CAPTION = """<b>📂Title : <a href=https://t.me/BackupChannel0143>{file_name}</a></b>
     
 ╔═══════※ ·❆· ※═══════╗
-▫️ Cʜᴀɴɴᴇʟ : <a href=https://t.me/BackupChannel0143>𝐋𝐮𝐬𝐢 𝐅𝐢𝐥𝐦𝐬™</a>
+▫️ Cʜᴀɴɴᴇʟ : <a href=https://t.me/BackupChannel0143>𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
 ▫️ Mᴏᴠɪᴇ Rᴇǫ Gʀ  : <a href=https://t.me/Trype0143>𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
 ╚═══════※ ·❆· ※═══════╝"""
 
