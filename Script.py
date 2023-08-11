@@ -192,8 +192,8 @@ Nᴀᴍᴇ - {}"""
     CUSTOM_FILE_CAPTION = """<b>📂Title : <a href=https://t.me/lusifilms>{file_name}</a></b>
     
 ╔═══════※ ·❆· ※═══════╗
-▫️ Cʜᴀɴɴᴇʟ : <a href=https://t.me/lusifilms>𝐋𝐮𝐬𝐢 𝐅𝐢𝐥𝐦𝐬™</a>
-▫️ Mᴏᴠɪᴇ Rᴇǫ Gʀ  : <a href=https://t.me/apnamovie4>𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
+▫️ Cʜᴀɴɴᴇʟ : <a href=https://t.me/Latest_movies_freeOnNet>Click Here™</a>
+▫️ Mᴏᴠɪᴇ Rᴇǫ Gʀ  : <a href=https://t.me/Mix_Cinema_Box>𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
 ╚═══════※ ·❆· ※═══════╝"""
 
     IMDB_TEMPLATE_TXT = """
